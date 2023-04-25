@@ -1,4 +1,4 @@
-# sdizo_projekt_1
+# Struktury danych i złożoność obliczeniowa - PROJEKT
 Ten projekt został stworzony w ramach zajęć na studiach. Jego celem jest zaprezentowanie implementacji
 różnych struktur danych w języku C++. Projekt składa się z implementacji czterech struktur danych:
 
